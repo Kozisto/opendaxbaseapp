@@ -17,8 +17,8 @@ import {
 import { HeaderToolbar } from '../HeaderToolbar';
 import { NavBar } from '../NavBar';
 
-import logo from '../../assets/images/logo.svg';
-import logoLight from '../../assets/images/logoLight.svg';
+import logo from '../../assets/images/logo.png';
+import logoLight from '../../assets/images/logoLight.png';
 
 interface ReduxProps {
     currentMarket: Market | undefined;
